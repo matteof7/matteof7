@@ -1,29 +1,44 @@
-👋 Bienvenue sur mon GitHub !
+# 👋 Bienvenue sur mon GitHub !  
 
-Je m'appelle Matteo Foti, actuellement en reconversion professionnelle vers le domaine passionnant de l'informatique. Après plusieurs années dans le secteur de la cuisine, j'ai décidé de relever un nouveau défi en explorant le monde du développement et des technologies.
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1E90FF&width=435&lines=Développeur+en+reconversion+!;Passionné+par+l'informatique+et+la+technologie;Explorant+Python%2C+C%2C+HTML%2FCSS+et+plus...)  
 
-Au cours de ma formation, j'ai eu l'opportunité de découvrir et d'apprendre brièvement plusieurs langages de programmation, notamment :
+Je m'appelle **Matteo Foti**, et je suis en pleine reconversion professionnelle dans le domaine de l'informatique. Après plusieurs années dans le secteur de la cuisine, j'ai décidé de relever un nouveau défi en explorant les technologies et le développement informatique.  
 
-C : pour comprendre les bases de la programmation système et la gestion de la mémoire,
-Python : pour des scripts simples et des projets axés sur l'automatisation,
-HTML & CSS : pour créer des interfaces web structurées et esthétiques.
-Je suis curieux, motivé et toujours en quête de nouvelles connaissances. Mon objectif est de continuer à progresser dans le développement informatique, avec un intérêt particulier pour la cybersécurité et les technologies web.
+---
 
-💻 Compétences en développement
+## 🚀 Ce que j'ai appris jusqu'à présent :  
+- **C** : Les bases de la programmation système et gestion de la mémoire.  
+- **Python** : Scripts simples et projets d'automatisation.  
+- **HTML & CSS** : Création d'interfaces web structurées et esthétiques.  
 
-Bases en programmation (C, Python)
-Développement web (HTML, CSS)
-🌟 Qualités personnelles
+---
 
-Autonome et rigoureux
-Esprit d'équipe et envie constante d'apprendre
-Perfectionniste et passionné par les défis techniques
-📚 Projets à venir
+## ✨ À propos de moi :  
+- 🎯 Toujours curieux et motivé à apprendre de nouvelles choses.  
+- 💡 Intéressé par la cybersécurité et le développement web.  
+- 🎮 Passionné par les jeux vidéo (FIFA, Call of Duty, CS:GO, Valorant).  
 
-Je compte enrichir mon profil GitHub avec des projets concrets, des exercices pratiques et des contributions open source pour partager mon apprentissage et mon évolution dans ce domaine.
+---
 
-N'hésitez pas à explorer mes dépôts et à me contacter pour échanger ou collaborer ! 🚀
-<!---
-matteof7/matteof7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌟 Projets et Objectifs :  
+- 💻 Développer des projets concrets pour enrichir mon portfolio.  
+- 🚀 Explorer de nouvelles technologies et langages.  
+- 🤝 Contribuer à des projets open source.  
+
+---
+
+### 🛠️ Outils et Technologies  
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)  
+
+---
+
+### 📈 Mon évolution :  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ton_nom_utilisateur&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ton_nom_utilisateur&layout=compact&theme=radical)  
+
+---
+
+### 🎉 N'hésitez pas à explorer mes dépôts et à me contacter !  
