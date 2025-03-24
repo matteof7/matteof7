@@ -1,44 +1,84 @@
-# 👋 Bienvenue sur mon GitHub !  
+![Bienvenue sur mon GitHub](https://via.placeholder.com/1200x300.png?text=Bienvenue+sur+mon+GitHub+%7C+Matteo+Foti)
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1E90FF&width=435&lines=Développeur+en+reconversion+!;Passionné+par+l'informatique+et+la+technologie;Explorant+Python%2C+C%2C+HTML%2FCSS+et+plus...)  
+# 👋 Bienvenue sur mon GitHub !
 
-Je m'appelle **Matteo Foti**, et je suis en pleine reconversion professionnelle dans le domaine de l'informatique. Après plusieurs années dans le secteur de la cuisine, j'ai décidé de relever un nouveau défi en explorant les technologies et le développement informatique.  
+![Titre animé](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjEyZDRkYjE4N2YxZjI4NGM2NzM2YjY0YmU4MmQyM2Y4NzJiN2Y3OSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
 
----
-
-## 🚀 Ce que j'ai appris jusqu'à présent :  
-- **C** : Les bases de la programmation système et gestion de la mémoire.  
-- **Python** : Scripts simples et projets d'automatisation.  
-- **HTML & CSS** : Création d'interfaces web structurées et esthétiques.  
+**Je suis Matteo Foti**, étudiant en développement web à **Holberton School de Thonon-les-Bains**. Actuellement, je suis à la recherche d'une **alternance en cybersécurité** pour poursuivre ma passion et développer mes compétences dans ce domaine.
 
 ---
 
-## ✨ À propos de moi :  
-- 🎯 Toujours curieux et motivé à apprendre de nouvelles choses.  
-- 💡 Intéressé par la cybersécurité et le développement web.  
-- 🎮 Passionné par les jeux vidéo (FIFA, Call of Duty, CS:GO, Valorant).  
+## 🎯 **Sommaire interactif**  
+1. [🌟 Qui suis-je ?](#-qui-suis-je-)
+2. [🚀 Projets réalisés](#-projets-réalisés-)
+3. [📚 Compétences techniques](#-compétences-techniques-)
+4. [📈 Mon activité GitHub](#-mon-activité-github-)
+5. [📫 Contactez-moi](#-contactez-moi-)
 
 ---
 
-## 🌟 Projets et Objectifs :  
-- 💻 Développer des projets concrets pour enrichir mon portfolio.  
-- 🚀 Explorer de nouvelles technologies et langages.  
-- 🤝 Contribuer à des projets open source.  
+## 🌟 **Qui suis-je ?**  
+- 🎓 Étudiant en **développement web** à Holberton School de Thonon-les-Bains, une école spécialisée dans l'apprentissage intensif des compétences techniques et professionnelles.  
+- 🌱 Toujours curieux et motivé à apprendre de nouvelles technologies.  
+- 🔐 Actuellement en recherche d'une **alternance en cybersécurité** pour approfondir mes connaissances et contribuer à des projets concrets.  
+- 🎮 Passionné par les jeux vidéo et leur conception.  
+
+> 🗨️ *"Chaque ligne de code est une opportunité d'apprendre et de grandir."*
 
 ---
 
-### 🛠️ Outils et Technologies  
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)  
+## 🚀 **Projets réalisés**  
+### 📜 **holbertonschool-hbnb**  
+- 🔨 **Langage :** Python  
+- 💡 **Description :** Projet lié au développement d'une application web ou d'un framework, mettant en œuvre des concepts avancés en Python.  
+- 🔗 [Voir le projet ici](https://github.com/matteof7/holbertonschool-hbnb)  
+
+### 📜 **holbertonschool-higher_level_programming**  
+- 🔨 **Langage :** Python  
+- 💡 **Description :** Contient des exercices et projets réalisés pour apprendre la programmation de haut niveau.  
+- 🔗 [Voir le projet ici](https://github.com/matteof7/holbertonschool-higher_level_programming)  
+
+### 📜 **holbertonschool-low_level_programming**  
+- 🔨 **Langage :** C  
+- 💡 **Description :** Dépôt dédié à la programmation système et bas niveau, incluant la gestion de la mémoire et la manipulation des pointeurs.  
+- 🔗 [Voir le projet ici](https://github.com/matteof7/holbertonschool-low_level_programming)  
+
+### 📜 **holbertonschool-web_front_end**  
+- 🔨 **Langages :** HTML, CSS, JavaScript, Python (Server-Side Rendering)  
+- 💡 **Description :** Ce projet couvre plusieurs aspects du développement front-end et back-end :  
+  - Création d'interfaces utilisateur avec **HTML** et **CSS**.  
+  - Intégration de fonctionnalités dynamiques avec **JavaScript**.  
+  - Utilisation de **Python** pour le rendu côté serveur (Server-Side Rendering).  
+- 🔗 [Voir le projet ici](https://github.com/matteof7/holbertonschool-web_front_end)  
 
 ---
 
-### 📈 Mon évolution :  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ton_nom_utilisateur&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ton_nom_utilisateur&layout=compact&theme=radical)  
+## 📚 **Compétences techniques**  
+### 🔧 **Langages appris :**  
+- **Python** : Scripts, automatisation et projets de haut niveau.  
+- **C** : Bases de la programmation système.  
+- **HTML & CSS** : Création de pages web simples.  
+- **JavaScript** : Développement d'interfaces web interactives.
+
+### 🛠️ **Outils utilisés :**  
+- Git et GitHub pour la gestion de versions.  
+- Visual Studio Code pour le développement.  
 
 ---
 
-### 🎉 N'hésitez pas à explorer mes dépôts et à me contacter !  
+## 📈 **Mon activité GitHub**  
+### 🚀 **Statistiques GitHub**  
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=matteof7&show_icons=true&theme=radical)  
+
+### 🔥 **Langages les plus utilisés**  
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=matteof7&layout=compact&theme=radical)  
+
+---
+
+## 📫 **Contactez-moi**  
+- 📧 Email : [matteofoti741@gmail.com](mailto:matteofoti741@gmail.com)  
+- 💼 LinkedIn : [Matteo Foti](https://www.linkedin.com/in/matteo-foti-b53601249/)  
+- 📍 Localisation : Thonon-les-Bains, France  
+
+---
+> 💡 *"Merci d'avoir visité mon GitHub ! N'hésitez pas à explorer mes projets ou à me contacter pour collaborer."*
