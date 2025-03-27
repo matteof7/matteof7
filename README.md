@@ -1,5 +1,3 @@
-![Bienvenue sur mon GitHub](https://via.placeholder.com/1200x300.png?text=Bienvenue+sur+mon+GitHub+%7C+Matteo+Foti)
-
 # 👋 Bienvenue sur mon GitHub !
 
 ![Titre animé](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjEyZDRkYjE4N2YxZjI4NGM2NzM2YjY0YmU4MmQyM2Y4NzJiN2Y3OSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
@@ -81,4 +79,4 @@
 - 📍 Localisation : Thonon-les-Bains, France  
 
 ---
-> 💡 *"Merci d'avoir visité mon GitHub ! N'hésitez pas à explorer mes projets ou à me contacter pour collaborer."*
+> 💡 *Merci d'avoir visité mon GitHub ! N'hésitez pas à explorer mes projets ou à me contacter pour collaborer.*
